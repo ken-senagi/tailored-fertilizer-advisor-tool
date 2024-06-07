@@ -1,10 +1,11 @@
-# Tailored Fertilizer Advisor Tool
+# Tailored Fertilizer Advisory Tool
 Tailored fertilizer advisor tool
 
 Please set the threshold value in the fist cell of the file "3-Code-Python-Deep-Learning.ipynb"
 
 
-# Please  install all Python dependences of these libraries
+# Please  install Python dependences for these libraries
+
 import numpy as np 
 
 import pandas as pd 
@@ -46,7 +47,7 @@ from folium import plugins
 import folium 
 
 
-## And install all R langauge dependeces of:
+## And install R langauge dependeces for:
 
 library(ggplot2) 
 
